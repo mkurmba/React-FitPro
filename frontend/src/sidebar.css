@@ -1,0 +1,23 @@
+/* Sidebar-specific styles */
+#sidebar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  #sidebar .side-menu li a {
+    color: #fff;
+  }
+  
+  #sidebar .side-menu li a.active,
+  #sidebar .side-menu li a:hover {
+    background-color: #444;
+  }
+  
+  #sidebar .btn-upgrade {
+    background-color: #ff5722;
+    color: #fff;
+  }
+  
+  #sidebar .btn-upgrade:hover {
+    background-color: #e64a19;
+  }

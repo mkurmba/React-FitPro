@@ -1,0 +1,22 @@
+/* Navbar-specific styles */
+nav {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav .form-group input {
+    border: 1px solid #ddd;
+  }
+  
+  nav .nav-links .nav-link {
+    color: #333;
+  }
+  
+  nav .profile img {
+    border-radius: 50%;
+  }
+  
+  nav .profile .profile-link {
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
